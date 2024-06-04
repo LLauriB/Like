@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+        font-family: "LXGW WenKai TC", cursive;
+        font-weight: 400;
+        font-style: normal;
+}
+
+header{
+    width: 648px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    margin-left: 350px;
+    margin-bottom: 10px;
+}
+
+
+h1{
+    margin-left: 15px;
+}
+
+h2{
+    margin-left: 600px;
+}
+
+.column{
+    position: absolute;
+    top: 77px;
+    left: 320px;
+    margin: 20px;
+}
+
+.user{
+    height: 250px;
+    width: 180px;
+    border: 3px solid black;
+    text-align: center;
+    margin: 10px;
+}
+
+.imagen{
+    height: 200px;
+    text-align: center;
+    margin: 15px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+.column-2{
+    position: absolute;
+    left: 550px;
+
+}
+
+.container{
+    width: 390px;
+    height: 150px;
+    border: 3px solid black;
+    margin: 15px;
+}
+
+
+.text{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 15px;
+}
+
+
+p{
+    margin-left: 35px;
+    font-size: 1em;
+    margin-bottom: 15px;
+}
+
+button{
+    width: 70px;
+    padding: 5px;
+    background-color: rgb(242, 235, 47);
+    box-shadow: 5px 5px black;
+}
